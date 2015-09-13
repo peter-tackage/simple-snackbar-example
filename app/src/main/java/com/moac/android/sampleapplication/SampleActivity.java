@@ -6,6 +6,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+/**
+ * A simple example that uses a Button to open up a dismissable Snackbar
+ */
 public class SampleActivity extends AppCompatActivity {
 
     @Override
