@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Sample Application</string>
-    <string name="title_activity_sample1">Sample Activity</string>
+    <string name="app_name">Simple Snackbar Example App</string>
+    <string name="title_activity_simple_snackbar">Simple Snackbar Activity</string>
+    <string name="label.button.hungry">I\'m feeling hungry</string>
 </resources>

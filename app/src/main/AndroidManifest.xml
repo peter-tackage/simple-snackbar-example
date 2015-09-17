@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.moac.android.sampleapplication"
-          xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest
+    package="com.moac.android.sampleapplication"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:allowBackup="false"
@@ -9,7 +10,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".SampleActivity"
-            android:label="@string/title_activity_sample1">
+            android:label="@string/title_activity_simple_snackbar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
